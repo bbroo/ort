@@ -1,3 +1,7 @@
+[![Docker Image: build and deploy to DockerHub](https://github.com/bbroo/ort/actions/workflows/docker-image.yml/badge.svg)](https://github.com/bbroo/ort/actions/workflows/docker-image.yml)
+
+----
+
 ![OSS Review Toolkit Logo](./logos/ort.png)
 
 &nbsp;
