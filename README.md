@@ -1,4 +1,4 @@
-[![Docker Image: build and deploy to DockerHub](https://github.com/bbroo/ort/actions/workflows/docker-image.yml/badge.svg)](https://github.com/bbroo/ort/actions/workflows/docker-image.yml)
+[![Build and push to DockerHub](https://github.com/bbroo/ort/actions/workflows/build-and-push-to-dockerhub.yml/badge.svg)](https://github.com/bbroo/ort/actions/workflows/build-and-push-to-dockerhub.yml)
 
 ----
 
